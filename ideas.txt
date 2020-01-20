@@ -1,0 +1,24 @@
+1. Remove Duplicates (from list or catalog, etc)
+2. Magic 8 Ball
+3. Pig Latin Translator
+4. Send an email using python - automate scheduling and sending of email with Python
+5. Temperature Converter - Farenheight to Celsius
+6. Metric System Converter - KM/H to MPH or vice versa
+7. GCD script
+8. Script to search a Computer for Specific Files
+9. Script to check your external IP Address
+10. Random Password Generator
+11. User-prompting script/Login Subroutine
+12. Grocery Calculator/Budget Calculator
+13. Search tweet from specific account
+14. Convert hours into seconds
+15. RNG Dice Roller
+16. Remove all vowels from a word and/or string
+17. Hypnosis Generator - data prioritization, different results from similar pool of data varying on parameters
+18. Guessing Game - Guess the number between 1 & 10 that I am thinking about, etc
+19. Print all multiples of 3 as fizz, all mulitple of 5 as buzz, between 1 & 100
+20. Get all links from a webpage
+21. Average Calculator
+22. Hangman
+23. Reverse a number
+24. Print Odd Numbers in a Given Range
