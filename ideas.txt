@@ -20,6 +20,6 @@
 20. Get all links from a webpage
 21. Average Calculator
 22. Hangman
-23. Reverse a number
-24. Print Odd Numbers in a Given Range
+23. Reverse a number - /done/
+24. Print Odd Numbers in a Given Range - /done/
 25. Print all integers that aren't divisible by either 2 or 3 and lie between 1 & 50
