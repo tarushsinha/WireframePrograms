@@ -2,7 +2,7 @@
 2. Magic 8 Ball
 3. Pig Latin Translator
 4. Send an email using python - automate scheduling and sending of email with Python
-5. Temperature Converter - Farenheight to Celsius
+5. Temperature Converter - Farenheight to Celsius - /done/
 6. Metric System Converter - KM/H to MPH or vice versa
 7. GCD script
 8. Script to search a Computer for Specific Files
@@ -16,7 +16,7 @@
 16. Remove all vowels from a word and/or string
 17. Hypnosis Generator - data prioritization, different results from similar pool of data varying on parameters
 18. Guessing Game - Guess the number between 1 & 10 that I am thinking about, etc
-19. Print all multiples of 3 as fizz, all mulitple of 5 as buzz, between 1 & 100
+19. Print all multiples of 3 as fizz, all mulitple of 5 as buzz, between 1 & 100 - /done/
 20. Get all links from a webpage
 21. Average Calculator
 22. Hangman
